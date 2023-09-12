@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602192754956",
+    "project_id": "oxirgidars",
+    "storage_bucket": "oxirgidars.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602192754956:android:07236334fecca6ed443129",
+        "android_client_info": {
+          "package_name": "com.asadbek.oxirgidars"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiN9Y5-73Ee7-VJyOmxSxH_jCklUc0FJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
